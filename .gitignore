@@ -5,6 +5,11 @@ __pycache__/
 # C extensions
 *.so
 
+#ignore swp files and un
+*.swp
+*.un~
+
+
 # Distribution / packaging
 .Python
 env/
